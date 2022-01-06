@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 9f795126-867c-a18d-4f6b-89685d4f5635
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 94e825a5-92f6-d684-e56b-20248217f393
+  name: Lecture Summaries
+  url: /pages/lecture-summaries
+  weight: 20
+- identifier: 922aff84-10b0-3faa-42cc-0aa26dbbc09f
+  name: Readings
+  url: /pages/readings
+  weight: 30
+- identifier: 6dbf9bf8-644f-b4bb-cbe4-033b68618545
+  name: Assignments
+  url: /pages/assignments
+  weight: 40
